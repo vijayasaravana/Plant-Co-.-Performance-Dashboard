@@ -40,8 +40,3 @@ Sample:
 
 
 ""
-
-
-![image](https://github.com/user-attachments/assets/04153d26-4f88-48cf-9c12-02b67a81d8af)
-![image](https://github.com/user-attachments/assets/10ae9b8a-2a67-4317-8c9e-a7f44506a052)
-![image](https://github.com/user-attachments/assets/6e77a2f1-d604-44d8-9db8-023e2059c3ff)
